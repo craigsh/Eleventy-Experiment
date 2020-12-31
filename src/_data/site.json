@@ -1,8 +1,8 @@
 {
   "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
+  "title": "Eleventy Demo",
+  "description": "This is my blog - Eleventy",
   "url": "https://example.com",
   "locale": "en",
-  "author": "Anonymous"
+  "author": "Craig Shearer"
 }
