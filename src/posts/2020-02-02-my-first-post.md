@@ -1,10 +1,10 @@
 ---
 title: 'My first post'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-date: 2020-02-02T00:00:00Z
+description: Testing a change to my first post.
+date: 2020-12-31T00:00:00Z
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+This is a test of my new post!
 
 Example with image:
 
